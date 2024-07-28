@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Welcome to my website</title>
+</head>
+
+<body>
+<p>
+
+    <img id="memeImage" src="replace_with_the_file_name_and_extension_of_the_image">
+
+ </p>
+</body>
+
+</html>
